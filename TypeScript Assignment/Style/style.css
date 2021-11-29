@@ -1,0 +1,18 @@
+#Home{
+    display: block;
+}
+#RegDiv{
+    display: none;
+}
+#LoginDiv{
+    display: none;
+}
+#AfterLoginDiv{
+    display: none;
+}
+#AvailableCourseDiv{
+    display: none;
+}
+#EnrollDiv{
+    display: none;
+}
